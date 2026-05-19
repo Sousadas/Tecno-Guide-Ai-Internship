@@ -1,6 +1,6 @@
 # Day 01 Notes
 
-Date: YYYY-MM-DD
+Date: 2026-05-19
 
 Objectives:
 - Understand AI vs ML vs DL
