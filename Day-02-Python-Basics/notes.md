@@ -1,6 +1,6 @@
 # Day 02 Notes
 
-Date: 2026-05-19        
+Date: YYYY-MM-DD
 
 Objectives:
 - Learn core Python syntax
