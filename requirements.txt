@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+opencv-python
+openai
+transformers
+python-dotenv
+SpeechRecognition
+pyttsx3
+pydub

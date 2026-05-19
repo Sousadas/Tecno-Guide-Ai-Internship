@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & large assets (keep datasets out of git; use releases or external hosting)
+data/
+datasets/
+*.csv
+*.sqlite
+*.h5
+
+# Model artifacts
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Streamlit / logs / temporary
+*.log
+screenshots/
+assets/
