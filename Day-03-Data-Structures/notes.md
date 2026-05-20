@@ -1,6 +1,6 @@
 # Day 03 Notes
 
-Date: YYYY-MM-DD
+Date: 2026-05-21
 
 Objectives:
 - Use Python built-in data structures
