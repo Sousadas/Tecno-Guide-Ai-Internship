@@ -10,7 +10,7 @@ print("Hello", students[0], "Your marks is: ", std_marks[0])
 # ----- Introduction to tuples -----#
 ## Tuples are immutable data structures, meaning they cannot be changed. They are defined using parentheses () instead of square brackets [].
 students_tuple = ('Marta','Antonio')
-std_marks_tuple =(20,15)
+std_marks_tuple =(12,40)
 print("Hello", students_tuple[1], "Your marks is: ", std_marks_tuple[1])
 print("Hello", students_tuple[0], "Your marks is: ", std_marks_tuple[0])    
 
