@@ -34,5 +34,5 @@ checkpoints/
 
 # Streamlit / logs / temporary
 *.log
-screenshots/
+# screenshots/
 assets/
