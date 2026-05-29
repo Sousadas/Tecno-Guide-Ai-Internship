@@ -1,6 +1,6 @@
 # Day 05 Notes
 
-Date: YYYY-MM-DD
+Date: 2026-05-22
 
 Objectives:
 - Implement basic statistics

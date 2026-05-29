@@ -1,6 +1,6 @@
 # Day 06 Notes
 
-Date: YYYY-MM-DD
+Date: 23-05-2026
 
 Objectives:
 - Train and evaluate a simple model

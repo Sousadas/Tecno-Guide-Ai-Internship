@@ -1,12 +1,18 @@
 # Day 12 — NLP Basics
 
-Summary:
-- Text processing, tokenization, build a simple spam detector
+## Summary
+- Text preprocessing (lowercasing, punctuation removal, stopword filtering)
+- Tokenization and vectorization (Bag-of-Words & TF-IDF)
+- Build and evaluate a spam classifier using Naïve Bayes
+- Classify new, unseen messages
 
-Tasks / Deliverables
-- spam_detector.py
-- notes.md
-- screenshots/
+## Tasks / Deliverables
+- `spam_detector.py` — full spam detection pipeline
+- `notes.md` — key NLP concepts and takeaways
+- `screenshots/`
 
-How to run
-1. python spam_detector.py
+## How to Run
+```bash
+pip install scikit-learn
+python spam_detector.py
+```

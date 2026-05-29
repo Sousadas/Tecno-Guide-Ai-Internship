@@ -1,13 +1,17 @@
 # Day 07 Notes
 
-Date: 2026-05-25
+Date: 29-05-2026
 
 Objectives:
 - Create a simple Streamlit interface
 - Deploy locally or to Streamlit Cloud
+- Add model persistence and load model for predictions
 
 What I learned:
 - Mapping model inputs to UI controls
+- Serializing and deserializing models using joblib
+- Constructing robust dynamic file paths for relative assets in Python
 
 Next steps:
-- Add model persistence and CI/CD for deployment
+- Deploy Streamlit app to cloud hosting platforms or integrate CI/CD pipelines
+
